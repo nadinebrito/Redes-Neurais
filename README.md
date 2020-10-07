@@ -1,2 +1,2 @@
 # Redes-Neurais
-Contribuidores : Nadine Brito e Jakson Protazio
+PP3.1 realizado por Nadine Brito e Jakson Protazio
